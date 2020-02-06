@@ -5,6 +5,8 @@ def LevelOne():
 def LevelTwo():
   pass
 
+print('hallo')
+
 StartScherm()
 LevelOne()
 LevelTwo()
